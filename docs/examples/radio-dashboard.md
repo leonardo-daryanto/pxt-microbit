@@ -1,4 +1,4 @@
-# Radio Dashboard
+# Radio Dashboard Editor
 
 ```typescript
 /**
